@@ -7,7 +7,7 @@
     {
         "action": "record",
         "eventUrl": [
-            "https://api.minerstat.com/voicemail.php"
+            "https://api.minerstat.com/voice/voicemail.php"
         ],
         "endOnSilence": "3",
         "beepStart": "true"
