@@ -1,19 +1,15 @@
 [
     {
         "action": "talk",
-        "text": "Thank you for calling minerstat services, Please leave a message after the tone and we will get back to you",
+        "text": "Thank you for calling minerstat services.",
         "voice_name": "Celine"
     },
     {
-        "action": "record",
-        "eventUrl": [
-            "https://api.minerstat.com/voice/voicemail.php"
-        ],
-        "endOnSilence": "2",
-        "beepStart": "true"
+        "action": "talk",
+        "text": "Please send an email to info@minerstat.com to get in touch with us."
     },
     {
         "action": "talk",
-        "text": "Thank you for your message. Goodbye"
+        "text": "Have a nice day. Goodbye"
     }
 ]
