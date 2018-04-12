@@ -1,15 +1,19 @@
 [
     {
         "action": "talk",
-        "text": "Thank you for calling minerstat services.",
+        "text": "Hello and thank you for calling minerstat",
         "voice_name": "Celine"
     },
     {
         "action": "talk",
-        "text": "Please send an email to info@minerstat.com to get in touch with us."
+        "text": "Since we don’t offer live phone support at this time, please send an email to info@minerstat.com to get in touch."
     },
     {
         "action": "talk",
-        "text": "Have a nice day. Goodbye"
+        "text": "For help you can also visit our website minerstat.com"
+    },
+    {
+        "action": "talk",
+        "text": "Thank you for calling and wish you a pleasant day."
     }
 ]
