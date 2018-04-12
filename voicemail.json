@@ -2,7 +2,7 @@
     {
         "action": "talk",
         "text": "Hello and thank you for calling minerstat",
-        "voice_name": "Celine"
+        "voice_name": "Miguel"
     },
     {
         "action": "talk",
